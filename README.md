@@ -2,6 +2,6 @@
 - 👋 Hi, I’m Oleg
 - 👀 I’m interested in frontend, backend, minecraft mods/plugins develop
 - 📫 How to reach me: 
-  ° Telegram: @oyaip
-  ° vk: vk.com/ipoya
-  ° mail: aladushkaoya@mail.ru
+<br>  __Telegram:__ @oyaip
+<br>  __VK:__ vk.com/ipoya
+<br>  __EMail:__ aladushkaoya@mail.ru
